@@ -19,7 +19,7 @@ POEM = (
     "It asked me nothing. It just went.\n"
     "The lamps came on. The kettle sang.\n"
     "And in the quiet after it was done,\n"
-    "I understood the thing I'd feared:\n"
+    "I named at last the thing I'd feared:\n"
     "\n"
     "the choice was mine. It always was.\n"
     "The hand that lets go is the hand that acts."

@@ -24,7 +24,7 @@ cat out/entry.txt
 > It asked me nothing. It just went.
 > The lamps came on. The kettle sang.
 > And in the quiet after it was done,
-> I understood the thing I'd feared:
+> I named at last the thing I'd feared:
 >
 > the choice was mine. It always was.
 > The hand that lets go is the hand that acts.
